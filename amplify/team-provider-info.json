@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-bytemechat-dev-59af1-authRole",
+      "UnauthRoleArn": "arn:aws:iam::031525572722:role/amplify-bytemechat-dev-59af1-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::031525572722:role/amplify-bytemechat-dev-59af1-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-bytemechat-dev-59af1-deployment",
+      "UnauthRoleName": "amplify-bytemechat-dev-59af1-unauthRole",
+      "StackName": "amplify-bytemechat-dev-59af1",
+      "StackId": "arn:aws:cloudformation:eu-central-1:031525572722:stack/amplify-bytemechat-dev-59af1/60438ddc-dcc4-4aa0-836c-28cc37136ace",
+      "AmplifyAppId": "d1mdqaaonz2v5d"
+    }
+  }
+}
